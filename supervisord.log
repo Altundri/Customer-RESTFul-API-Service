@@ -1,0 +1,25 @@
+2023-03-13 04:20:20,157 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2023-03-13 04:20:20,167 INFO supervisord started with pid 1
+2023-03-13 04:20:21,172 INFO spawned: 'laravel' with pid 7
+2023-03-13 04:20:22,174 INFO success: laravel entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-03-13 04:48:45,445 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2023-03-13 04:48:45,653 INFO supervisord started with pid 1
+2023-03-13 04:48:46,658 INFO spawned: 'laravel' with pid 7
+2023-03-13 04:48:47,675 INFO success: laravel entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-03-13 04:56:31,082 WARN received SIGQUIT indicating exit request
+2023-03-13 04:56:31,083 INFO waiting for laravel to die
+2023-03-13 04:56:31,085 INFO stopped: laravel (terminated by SIGTERM)
+2023-03-13 05:06:20,939 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2023-03-13 05:06:20,947 INFO supervisord started with pid 1
+2023-03-13 05:06:21,952 INFO spawned: 'laravel' with pid 7
+2023-03-13 05:06:22,955 INFO success: laravel entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-03-13 05:18:47,501 WARN received SIGQUIT indicating exit request
+2023-03-13 05:18:47,502 INFO waiting for laravel to die
+2023-03-13 05:18:47,504 INFO stopped: laravel (terminated by SIGTERM)
+2023-03-13 05:52:18,419 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2023-03-13 05:52:18,429 INFO supervisord started with pid 1
+2023-03-13 05:52:19,433 INFO spawned: 'laravel' with pid 7
+2023-03-13 05:52:20,435 INFO success: laravel entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-03-13 05:56:11,674 WARN received SIGQUIT indicating exit request
+2023-03-13 05:56:11,676 INFO waiting for laravel to die
+2023-03-13 05:56:12,680 INFO stopped: laravel (terminated by SIGTERM)
