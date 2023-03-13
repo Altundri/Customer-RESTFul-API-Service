@@ -2,7 +2,7 @@
 
 [![Visual Studio Code](https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff)](https://code.visualstudio.com/)
 
-## Features Laravel Rest API
+## Features Customer RESTFul API Service
 
 - getAllCustomer
 - getCustomerById
@@ -209,7 +209,7 @@ http://localhost/address/(id)   *DELETE
 ```
 
 ## Note 
-Aplikasi belum bisa dijalankan menggunakan docker container dikarenakan konfigurasi yang belum diselesaikan .
+Aplikasi belum bisa dijalankan menggunakan docker container dikarenakan konfigurasi yang belum diselesaikan dan Spesifikasi Laptop yang tidak memadai .
 Aplikasi tetap dapat dijalankan menggunakan artisan
 
 ## Credit
